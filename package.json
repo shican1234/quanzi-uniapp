@@ -1,0 +1,20 @@
+{
+    "id": "jiahao-trends-list",
+    "name": "【手机端】动态列表组件",
+    "displayName": "【手机端】动态列表组件",
+    "version": "1.0.4",
+    "description": "【手机端】动态列表组件",
+    "keywords": [
+        "列表组件",
+        "动态",
+        "圈子",
+        "微信小程序",
+        "前端"
+    ],
+    "dcloudext": {
+        "category": [
+            "前端组件",
+            "通用组件"
+        ]
+    }
+}
