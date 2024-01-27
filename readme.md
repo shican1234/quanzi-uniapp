@@ -6,7 +6,7 @@
 - 演示地址：https://bbs.suibianba.cn
 - 后台地址:http://admin.suibianba.cn/
 - 账号/密码:test
-- 后台页面仓库地址 https://gitee.com/shican1234/chatgpt-admin-ui.git
+- 后台页面仓库地址 https://gitee.com/shican1234/quanzi-admin.git
 - JAVA仓库地址 https://gitee.com/shican1234/quanzi-java.git
 <br>
 
